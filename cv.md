@@ -5,3 +5,10 @@
 ## About Me
 I like to learn something new. I like meeting new people.
 Nice little guy and kind.
+## Skills
+* HTML
+* CSS
+* JavaScript (Basic)
+* PHP
+* Git, GitHub
+* VS Code
