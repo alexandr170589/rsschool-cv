@@ -19,3 +19,8 @@ var summation = function (num) {
   return num * (num + 1) / 2;
 }
 ```
+## Experience
+[rsschool-cv](https://alexandr170589.github.io/rsschool-cv/cv)
+## Education
+## English
+A1 (read)
